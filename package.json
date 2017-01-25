@@ -1,0 +1,16 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "a flashcard app made entirely in the backend.",
+  "main": "flashCards.js",
+  "scripts": {
+    "test": "node flashCards.js display",
+    "start" : "node flashCards.js play"
+  },
+  "keywords": [
+    "nodeJS",
+    "game"
+  ],
+  "author": "Veronica Diaz",
+  "license": "to kill"
+}
